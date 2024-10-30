@@ -52,7 +52,7 @@ def get_response(user_input):
     st.session_state.history.append({"user": user_input, "bot": answer['챗봇']})
 
 # 이미지 표시
-st.image("cctv.png", caption="Welcome to the Restaurant Chatbot", use_column_width=True)
+st.image("cctv.png", caption="Warning! 도둑 감지", use_column_width=True)
 
 # Streamlit 인터페이스
 st.title("포트폴리오 챗봇")
