@@ -1,5 +1,8 @@
 sentence_transformers
 pandas
 streamlit
-ultralytics
 opencv-python-headless
+ultralytics
+ffmpeg-python
+ffmpeg
+moviepy
